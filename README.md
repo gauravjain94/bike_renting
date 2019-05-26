@@ -14,4 +14,4 @@ Files Detail
 day.csv containing dataset
 Py_bike_renting_prediction.py contain implemenation in Python
 R_bike_renting_prediction.R contain implementation in R
-Project_Report_explained.pdf contain Process and anlysis done during this project
+Project_Report_explained.pdf contain Process and analysis done during this project
